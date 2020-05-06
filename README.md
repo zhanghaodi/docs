@@ -1,2 +1,2 @@
 # docs
-Some docs in openbmc
+Organized files in openbmc
